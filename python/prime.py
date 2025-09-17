@@ -10,3 +10,9 @@ if x > 1:
     else:
         print("it is prime number")
 
+# in an interval
+for i in range(0,x+1):
+    if i > 1:
+        print("not prime")
+        for i in range 
+
